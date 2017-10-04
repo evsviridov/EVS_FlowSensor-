@@ -1,0 +1,19 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	EVS_FlowSensor
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	EVS_FlowSensor	KEYWORD1
+	EVS_FlowSensor_Global	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	init	KEYWORD2
+	getCounter	KEYWORD2
+	getCurrentState	KEYWORD2
+	checkPulse	KEYWORD2
+	setLed	KEYWORD2
+	getFrequency	KEYWORD2
+	addPulseCounter	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	NO_LED	LITERAL1
